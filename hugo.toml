@@ -1,3 +1,26 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://kodlådan.se/"
+languageCode = "en-us"
+title = "Kodlådan"
+theme = "lekh"
+
+[params]
+Name = "Kodlådan"
+About = """
+Hi there! I'm Carl, contractor at Kodlådan and senior software developer based in Sweden.
+"""
+Email = "claeskent@gmail.com"
+Resume = "" # Add the filename with file extension.
+PostLimit = 4 # Sets the number of posts to display on the front page
+GoatCounterCode = ""
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/cbring"
+
+#[[params.profiles]]
+#name = "Twitter"
+#url = "https://twitter.com/username"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/carl-bring/"
