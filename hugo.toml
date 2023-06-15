@@ -8,7 +8,7 @@ Name = "Kodlådan"
 About = """
 Hi there! I'm Carl, contractor at Kodlådan and senior software developer based in Sweden.
 """
-Email = "claeskent@gmail.com"
+Email = "carl@kodlådan.se (carl@xn--kodldan-hxa.se)"
 Resume = "" # Add the filename with file extension.
 PostLimit = 4 # Sets the number of posts to display on the front page
 GoatCounterCode = ""
